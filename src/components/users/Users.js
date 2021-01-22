@@ -13,7 +13,7 @@ class Users extends Component {
       {
         login: "defunkt",
         id: 2,
-        "avatar_url": "https://avatars0.githubusercontent.com/u/2?v=4",
+        avatar_url: "https://avatars0.githubusercontent.com/u/2?v=4",
         html_url: "https://github.com/defunkt",
       },
       {
@@ -34,7 +34,7 @@ class Users extends Component {
 		</div>
 	);
   }
-}
+};
 
 const userStyle = {
 	display: 'grid',
